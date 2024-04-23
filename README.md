@@ -1,6 +1,6 @@
 # SpineScan AI
 
-# Cervical Fracture Detection using Deep Learning
+## Cervical Fracture Detection using Deep Learning
 
 ## Project Overview
 This project enhances medical diagnostic accuracy by developing a deep learning model that detects cervical fractures from vertebral images. Using a Convolutional Neural Network (CNN) with the EfficientNet architecture in TensorFlow and integrating YOLOv5 for object detection, this model achieves high accuracy and is a valuable tool for medical professionals.
