@@ -1,0 +1,2 @@
+# SpineScan AI
+Welcome to SpineScan AI, where precision meets innovation in the quest to transform cervical spine healthcare. Our platform is a testament to the fusion of medical expertise and artificial intelligence, delivering state-of-the-art diagnostic support to healthcare professionals and institutions worldwide.
